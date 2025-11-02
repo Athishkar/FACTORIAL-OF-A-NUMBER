@@ -34,7 +34,7 @@ APPARATUS REQUIRED: Personal computer with Keil software
 
 ORG 0000H   
 
-MOV A,#04H  
+MOV A,#05H  
 
 MOV R0,A  
 
@@ -64,21 +64,14 @@ END
 
 **Output:**  
 
-<br>
-<br>
-<br>
+<img width="224" height="199" alt="Screenshot 2025-10-27 102310" src="https://github.com/user-attachments/assets/ca81b8ba-5ea4-4436-8b26-de0405acab51" />
+
 
 
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+![WhatsApp Image 2025-11-02 at 14 35 36_d22a993b](https://github.com/user-attachments/assets/077fe2c5-ced5-4245-8834-07cdd2edaf24)
 
 
 
